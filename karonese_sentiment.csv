@@ -1,5 +1,4 @@
-Table positive
-No,Tweets,label
+no,tweet,label
 1,"Ija pa pe kam ringan gundari, kutotoken gelah kam sehat-sehat",positive
 2,Kai Lagu Karo populer gundari nake?,neutral
 3,Kutotoken kam ndai gelah tetap sehat ras erpengharapen man si mada kuasa.,positive
@@ -999,4 +998,4 @@ No,Tweets,label
 997,"Ceda ukurku nim, ence la kin banci kita robah nimka",negative
 998,Sitik pe la jelas man bangku. Turiken dage min alu manjar-anjar yah. Kai kin si jadi rebih,neutral
 999,tambari gelah malem,positive
-1000,Si Ani usur sisaling-salingen ras si Mina.,-1
+1000,Si Ani usur sisaling-salingen ras si Mina.,negative
